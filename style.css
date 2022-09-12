@@ -107,7 +107,7 @@ h3, h1, p, ul{
 
 .btn:hover{
     background-color: hsla(158, 38%, 20%);
-    transition-delay: 0.3s;
+    transition-delay: 0.1s;
 }
 
 .btn > img{
